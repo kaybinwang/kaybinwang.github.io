@@ -4,6 +4,10 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  color: LightSlateGray;
+}
+
 body {
   font-family: "Open-Sans", sans-serif;
   font-weight: normal;
